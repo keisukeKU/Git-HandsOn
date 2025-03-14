@@ -1,1 +1,1 @@
-git hands onecho it hands oncat sample.tx >> sample.txt
+git hands onls
