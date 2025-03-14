@@ -1,1 +1,1 @@
-git hands onls
+git hands ongit status
